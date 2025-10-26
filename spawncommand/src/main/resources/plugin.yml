@@ -1,0 +1,9 @@
+name: SpawnCommand
+version: 1.0
+main: com.fletch.spawncommand.SpawnCommand
+api-version: 1.21
+commands:
+  spawn:
+    description: Teleports you to your spawn point
+    usage: /<command>
+    aliases: [home, spawnpoint]
